@@ -35,14 +35,14 @@ const config = {
         "Welcomer is the person who greet the new person in an unique and great way",
       logo: <CgCrown className="h-10 w-10" />,
     },
-    // You can added more features if need add
+    //TAMBAHIN KALO MAU KONTOL
   ],
   //Bot Features
-  serverCount: 300, //-  - Your
-  memberCount: 700, //--   - Bot
-  executedCommand: 27000, //--  - Stats
-  availableCommand: 400, //---   - Here
-  //Do not change if you don't know about them
+  serverCount: 2310, //-  - Your
+  memberCount: 12412424, //--   - Bot
+  executedCommand: 214124124124, //--  - Stats
+  availableCommand: 214124141, //---   - Here
+  //tes tes memek
   faceBookLogo: (
     <BsFacebook className="h-10 w-10 text-[#4267B2] hover:scale-125 easeIn cursor-pointer" />
   ),
